@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <b>ZiYu</b><br>
+    <img src="assets/ziyu-banner.svg" alt="ZiYu — Spring Boot-style startup banner" width="700" height="236"><br><br>
     <img src="assets/motto-en.svg" alt="AI Product Manager · make it work, then make it quiet" width="700" height="24" align="middle"><br>
     <a href="https://wzy11p.github.io/ziyu-home/">website</a> &nbsp;·&nbsp;
     <a href="https://mp.weixin.qq.com/s/2e9D9X6LmonpAvCedTfWEA">WeChat</a> &nbsp;·&nbsp;

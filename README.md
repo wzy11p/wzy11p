@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <b>王子瑜 ZiYu</b><br>
+    <b>ZiYu</b><br>
     <img src="assets/motto-en.svg" alt="AI Product Manager · make it work, then make it quiet" width="700" height="24" align="middle"><br>
     <a href="https://wzy11p.github.io/ziyu-home/">website</a> &nbsp;·&nbsp;
     <a href="https://mp.weixin.qq.com/s/2e9D9X6LmonpAvCedTfWEA">WeChat</a> &nbsp;·&nbsp;

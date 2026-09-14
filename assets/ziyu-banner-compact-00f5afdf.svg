@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="176" viewBox="0 60 700 176" role="img" aria-labelledby="title description">
+  <title id="title">ZiYu · Startup Banner</title>
+  <desc id="description">ZiYu written in ASCII characters, inspired by a Spring Boot terminal startup banner.</desc>
+  <rect width="700" height="236" fill="#ffffff"/>
+  <g fill="#000000" font-family="Menlo, Consolas, monospace" font-size="21">
+    <text x="172.90" y="66" xml:space="preserve"> ______  _  __     __       </text>
+    <text x="172.90" y="88" xml:space="preserve">|___  / (_) \ \   / /       </text>
+    <text x="172.90" y="110" xml:space="preserve">   / /   _   \ \_/ / _   _  </text>
+    <text x="172.90" y="132" xml:space="preserve">  / /   | |   \   / | | | | </text>
+    <text x="172.90" y="154" xml:space="preserve"> / /__  | |    | |  | |_| | </text>
+    <text x="172.90" y="176" xml:space="preserve">/_____| |_|    |_|   \__,_| </text>
+  </g>
+  <text x="350" y="212" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="14"><tspan fill="#6db33f">:: ZiYu ::</tspan><tspan fill="#57606a" dx="12">(AI Product Manager)</tspan></text>
+</svg>
